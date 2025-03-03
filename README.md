@@ -1,3 +1,6 @@
+## Dương Hoàng Vũ
+## k215480106069
+## lớp 57KMT01
 API gửi dữ liệu ở đây: https://github.com/hoangvu168/TB_Android2
 ![image](https://github.com/user-attachments/assets/feaf687d-0015-44db-8200-790c32fbc644)
 
